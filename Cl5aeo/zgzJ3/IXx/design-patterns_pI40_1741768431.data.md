@@ -1971,7 +1971,6 @@ class Speak implements AnimalOperation
     }
 }
 ```
-
 And then it can be used as
 ```php
 $monkey = new Monkey();
