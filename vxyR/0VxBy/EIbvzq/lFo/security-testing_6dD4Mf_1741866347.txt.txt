@@ -122,7 +122,6 @@
 0.4.1
 - Bug fixes to Out-Word and Out-Excel.
 0.4.0
-- Added scripts for Client Side Attacks
 0.3.8.1
 - Changes to Encoding and Compression methods acroos multiple scripts
 - Bug fix in Get-LSASecrets.ps1
