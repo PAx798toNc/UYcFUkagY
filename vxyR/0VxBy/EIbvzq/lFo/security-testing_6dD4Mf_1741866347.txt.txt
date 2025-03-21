@@ -110,7 +110,6 @@
 - Execute-Command-MSSQL now supports Windows Authentication.
 0.4.4
 - Added Add-ScrnSaverBackdoor to the Backdoors directory.
-- Download-Execute-PS now randomizes filename for the saved script.
 - Added Invoke-ADSBackdoor (by Matt).
 0.4.3
 - Added Out-DnsTxt to Utility directory.
