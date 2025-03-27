@@ -21,7 +21,6 @@ IncludeCategories:
     Priority:        0
   # First block is local directory includes
   - Regex:           '"[[:alnum:]._\/]+"'
-    Priority:        1
   # Second block is system includes with .h suffix. Usually dependencies.
   - Regex:           '<[[:alnum:]._\/]+\.h>'
     Priority:        2
