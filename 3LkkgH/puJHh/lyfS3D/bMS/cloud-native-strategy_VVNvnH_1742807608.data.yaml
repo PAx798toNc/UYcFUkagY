@@ -42,7 +42,6 @@ spec:
         ports:
         - name: http
           containerPort: 8080
-        - name: probe
           containerPort: 8086
         env:
         - name: VERSION
