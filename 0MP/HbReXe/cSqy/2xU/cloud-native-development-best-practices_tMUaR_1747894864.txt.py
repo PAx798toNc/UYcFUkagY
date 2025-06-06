@@ -3,7 +3,6 @@ import os
 
 import aws_cdk as cdk
 
-from sprint4_saad.sprint4_saad_pipeline_stack import Sprint4SaadPipelineStack
 
 
 app = cdk.App()
