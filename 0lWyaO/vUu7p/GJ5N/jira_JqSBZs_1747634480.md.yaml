@@ -38,7 +38,6 @@ github:
     - data-transfers
     - domain-layer
     - dashboard-friendly
-    - golang
     - jira
     - devops
   enabled_merge_buttons:
